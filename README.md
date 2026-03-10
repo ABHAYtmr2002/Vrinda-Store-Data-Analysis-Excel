@@ -34,7 +34,7 @@ The dataset contains information about:
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard.png](dashboard.png)
 
 ## 📂 Files in Repository
 
