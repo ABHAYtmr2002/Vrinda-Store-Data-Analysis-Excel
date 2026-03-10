@@ -32,9 +32,8 @@ The dataset contains information about:
 * **Amazon, Flipkart, and Myntra** are the major sales channels.
 * Most customers purchase products from **Clothing, Food, and Electronics** categories.
 
-## 📈 Dashboard
-
-![Dashboard.png](dashboard.png)
+## Dashboard
+![Vrinda Dashboard](Dashboard.png)
 
 ## 📂 Files in Repository
 
